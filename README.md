@@ -133,7 +133,9 @@ I am currently open to opportunities in:
 - Full-Stack Development
 - Graduate Technology Programmes
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oratile-mabilo/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OfficialBakang)
+
 
 ---
 
